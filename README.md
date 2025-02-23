@@ -1,4 +1,5 @@
 # horse-racing
+Horse Racing Game App with Vue and Vuex
 
 ## Project setup
 ```
